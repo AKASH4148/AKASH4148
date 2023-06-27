@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akash Kesrwani
 - 👀 I’m interested Artificial intelligence
-- 🌱 I’m currently learning  Deep learning modules
 - 📫 Reach me through 99akashkesrwani@gmail.com
 
 <!---
